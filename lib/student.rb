@@ -51,7 +51,7 @@ class Student
    student = Student.create(row[1], row[2])
   end
 
- 
+
 
 
 end
